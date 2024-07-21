@@ -1,7 +1,3 @@
-Hello, Aditya Jani this side.
-
-I have completed the task as per my web development knowledge. Below are the details of the project and instructions for running it.
-
 Technologies Used:
 React.js
 Tailwind CSS
