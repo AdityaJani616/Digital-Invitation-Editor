@@ -1,4 +1,5 @@
-Technologies Used:
+#### Digital-Invitation-Editor
+## Technologies Used:
 React.js
 Tailwind CSS
 React Icons
@@ -10,7 +11,7 @@ Undo/Redo
 Responsive Design
 
 
-Steps to Run the Project:
+## Steps to Run the Project:
 1)Unzip the Project:
 2)Navigate to the Project Directory:
     cd Digital-Invitation-Editor
