@@ -1,7 +1,7 @@
 #### Digital-Invitation-Editor
 ## Technologies Used:
-React.js
-Tailwind CSS
+-React.js
+-Tailwind CSS
 React Icons
 Material-UI
 Features Implemented:
