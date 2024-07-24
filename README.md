@@ -23,8 +23,7 @@
 3. **Run:**
     ```bash
     npm install
-   ```bash
-   npm run dev
+    npm run dev
 4.**Open your web browser and navigate to http://localhost:5173.**
 ## Image: 
 ![digitalinvi](https://github.com/user-attachments/assets/520539b3-91f8-41d3-a875-b56954d12836)
